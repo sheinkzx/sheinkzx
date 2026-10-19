@@ -10,7 +10,7 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFyajdrbDZvYnN1OGFzMTVsZjVjNWFkNHR5bnk5bGJ3N2hpNjBrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="25"> <b>Projects</b>
 
-### 🛒 [DCCastillo — Marketplace](TU_LINK_AL_REPO)
+### 🛒 [DCCastillo — Marketplace](https://github.com/sheinkzx/dccastillo-marketplace.git)
 
 University project (*IIC2143 Software Engineering*, team of 3). A buy/sell platform with three profiles: **customers** who discover products and request purchases, **sellers**, and **admins** who moderate the community from a dashboard.
 
