@@ -1,16 +1,20 @@
+<p align="center">
+  <img width="100%" alt="Andrés Paredes — Computer Science student" src="./assets/banner.svg" />
+</p>
+
 <h1 align="center">Hi , I'm Andrés Paredes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 💻 I'm a Computer Science student at Pontificia Universidad Católica de Chile 🇨🇱
 - 🌐 I enjoy building web apps with Ruby on Rails, React and PostgreSQL
-- 🛒 My latest project: [DCCastillo](TU_LINK_AL_REPO), a marketplace with chat, admin panel and a bilingual interface
+- 🛒 My latest project: [DCCastillo](https://github.com/sheinkzx/dccastillo-marketplace), a marketplace with chat, admin panel and a bilingual interface
 - 🗣️ Spanish (native) and English (conversational, technical reading)
 - 🌱 I learn best by building real projects
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFyajdrbDZvYnN1OGFzMTVsZjVjNWFkNHR5bnk5bGJ3N2hpNjBrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="25"> <b>Projects</b>
 
-### 🛒 [DCCastillo — Marketplace](https://github.com/sheinkzx/dccastillo-marketplace.git)
+### 🛒 [DCCastillo — Marketplace](https://github.com/sheinkzx/dccastillo-marketplace)
 
 University project (*IIC2143 Software Engineering*, team of 3). A buy/sell platform with three profiles: **customers** who discover products and request purchases, **sellers**, and **admins** who moderate the community from a dashboard.
 
@@ -57,7 +61,7 @@ University project (*IIC2143 Software Engineering*, team of 3). A buy/sell platf
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-TU__USUARIO-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/sheinkzx"><img src="https://img.shields.io/badge/GitHub-sheinkzx-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:aparedesv@estudiante.uc.cl"><img src="https://img.shields.io/badge/Email-aparedesv@estudiante.uc.cl-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Paredes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
