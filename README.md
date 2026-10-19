@@ -63,5 +63,5 @@ University project (*IIC2143 Software Engineering*, team of 3). A buy/sell platf
 <p align="center">
   <a href="https://github.com/sheinkzx"><img src="https://img.shields.io/badge/GitHub-sheinkzx-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:aparedesv@estudiante.uc.cl"><img src="https://img.shields.io/badge/Email-aparedesv@estudiante.uc.cl-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Paredes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/andres-paredes-vergara-a96b98355"><img src="https://img.shields.io/badge/LinkedIn-Andrés%20Paredes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
