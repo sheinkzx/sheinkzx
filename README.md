@@ -7,10 +7,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 💻 I'm a Computer Science student at Pontificia Universidad Católica de Chile 🇨🇱
-- 🌐 I enjoy building web apps with Ruby on Rails, React and PostgreSQL
+- 🔍 I enjoy exploring new topics, researching different areas of technology and learning how things work.
 - 🛒 My latest project: [DCCastillo](https://github.com/sheinkzx/dccastillo-marketplace), a marketplace with chat, admin panel and a bilingual interface
 - 🗣️ Spanish (native) and English (conversational, technical reading)
-- 🌱 I learn best by building real projects
+- ⚽ I'm passionate about sports and enjoy being involved in different sporting activities.
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFyajdrbDZvYnN1OGFzMTVsZjVjNWFkNHR5bnk5bGJ3N2hpNjBrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="25"> <b>Projects</b>
 
